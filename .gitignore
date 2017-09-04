@@ -1,0 +1,19 @@
+# Intellij
+*.iml
+/.idea/
+
+#eclipse files
+.classpath
+.project
+/*/.settings/
+/.settings/
+
+/.externalToolBuilders/
+
+# Java class files
+*.class
+
+# Generated files
+/bin/
+/*/target/
+/target/
